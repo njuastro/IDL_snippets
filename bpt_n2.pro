@@ -1,6 +1,6 @@
 pro bpt_n2
 
-;bpt diagram and different kind of maps(flux, rotation,gas velocity dispersion etc.)
+;bpt diagram and different kind of maps(flux, rotation,gas velocity dispersion etc.) for IFU data.
 
 ;data set only for MaNAG MPL-6, you just need change the extension for other data release.
 
