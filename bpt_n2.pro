@@ -2,7 +2,7 @@ pro bpt_n2
 
 ;bpt diagram and different kind of maps(flux, rotation,gas velocity dispersion etc.) for IFU data.
 
-;data set only for MaNAG MPL-6, you just need change the extension for other data release.
+;data set only for MaNGA MPL-6, you just need change the extension for other data release.
 
 info = mrdfits('/Users/xiaoling/Desktop/project2/data/pro3/changing-look-agn.fits',1)
 info1 = mrdfits('/Users/xiaoling/work/gal_samp_dap_v2_3_1.fits',1)
